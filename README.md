@@ -1,3 +1,3 @@
-<h1> Olá, Eu sou João</h1>
-<h2>No momento estou adquirindo conhecimentos para me tornar um densenvolvedor de mão cheia.</h2>
+h1> Olá, Eu sou João </h1>
+<h2> Um Dev em Desenvolvimento.</h2>
 
