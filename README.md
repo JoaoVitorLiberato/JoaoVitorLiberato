@@ -7,7 +7,7 @@ sobre desenvolvimento Web com as tecnologias: <h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' heidth='30'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='30' heidth='30'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' heidth='30'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://img.icons8.com/color/344/react-native.png" width='25' heidth='25'/>
+<img src="https://img.icons8.com/color/344/react-native.png" width='25' heidth='25'/>
 
   
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
