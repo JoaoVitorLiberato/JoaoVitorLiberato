@@ -1,4 +1,6 @@
 ### Olá, eu sou o João.
+<h3> Apaxionado por programação, animes, series (Principamente por dramas coreano) e estumento musical (Violão).  
+</h3>
 
 <h4>Recentemento finalizei o bootcamp da StartSe Tech Academy, onde passamos dois meses onde eu pude aprender mais sobre os conceitos básicos
     sobre desenvolvimento Web com as tecnologias: <br>
