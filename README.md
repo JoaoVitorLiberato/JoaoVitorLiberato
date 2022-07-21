@@ -12,8 +12,8 @@
   <img src="https://img.icons8.com/ios-glyphs/344/github.png" width='25' heidth='25'/>
 </h4>
 
-<h4>Atualmente Estou na reta final do Gama Academy onde pude ter experiências como trabalho em equipe, aprendi a me comunicar com grupos de pessoas melhor, pude ter a experiências com projeto à curto prazo para aprender a trabalhar sobre pressão. No programa de capacitação tivemos um período aprendendo os fundamentos básicos dos desenvolvimento Web e após termino eu optei dá ênfase a trilha de Front-end<br>
-Technologias:<br>
+<h4>Atualmente Estou na reta final do Gama Academy onde pude ter experiências como trabalho em equipe, aprendi a me comunicar com grupos de pessoas melhor, pude ter a experiências com projeto à curto prazo para aprender a trabalhar sobre pressão. No programa de capacitação tivemos um período aprendendo os fundamentos básicos dos desenvolvimento Web e após termino eu optei dá ênfase a trilha de Front-end technologias:
+<br>
   <img src="https://img.icons8.com/color/344/html-5--v1.png" width='25' heidth='25'/>
   <img src="https://img.icons8.com/color/344/css3.png" width='25' heidth='25'/>
   <img src="https://img.icons8.com/color/344/javascript--v1.png" width='25' heidth='25'/>
