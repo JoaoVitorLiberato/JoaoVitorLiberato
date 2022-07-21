@@ -24,3 +24,8 @@ Technologias:<br>
  <img src="https://img.icons8.com/color/2x/bootstrap.png" width='25' heidth='25'/>
   <img src="https://img.icons8.com/ios-glyphs/344/github.png" width='25' heidth='25'/> 
  </h4>
+ 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorLiberato" />
+<img height="180em" src="https://github.com/JoaoVitorLiberato/github-readme-stats" />
+</div>
