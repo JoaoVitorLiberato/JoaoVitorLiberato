@@ -6,6 +6,7 @@
 
 <h5>Hards Skills: </h5>
 <br>
+  <h4>
   <img src="https://img.icons8.com/color/344/html-5--v1.png" width='25' heidth='25'/>
   <img src="https://img.icons8.com/color/344/css3.png" width='25' heidth='25'/>
   <img src="https://img.icons8.com/color/344/javascript--v1.png" width='25' heidth='25'/>
