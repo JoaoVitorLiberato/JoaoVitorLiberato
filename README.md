@@ -10,6 +10,7 @@
   <img src="https://img.icons8.com/color/344/html-5--v1.png" width='28' heidth='28'/>
   <img src="https://img.icons8.com/color/344/css3.png" width='28' heidth='28'/>
   <img src="https://img.icons8.com/color/344/javascript--v1.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/color/72/typescript.png" width='28' heidth='28'/>
   <img src="https://img.icons8.com/color/72/nodejs.png" width='28' heidth='28'/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width='28'      heidth='28'/>
  <img src="https://img.icons8.com/color/344/react-native.png" width='28' heidth='28'/> 
