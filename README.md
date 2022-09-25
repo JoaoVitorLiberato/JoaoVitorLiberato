@@ -5,17 +5,17 @@
 <h4> Atualemnte Estou iniciando novas experiecias realizando novas imerssões Com a Vai Na Web - Curso forcado na stack frontend e M3 academy, onde o foco é aprender mais technologias no âmbito de ecommeces. Estou sempre a procura de consolidar meus conhechimentos obtidos durante o Gama Academy e StartSe Tech Academy, pois acredito com bastante foco poderei alcançar minha meta de me tornar um especialista e uma referência na aréa.
 
 <h5>Hards Skills: </h5>
-<br>
+
   <h4>
-  <img src="https://img.icons8.com/color/344/html-5--v1.png" width='25' heidth='25'/>
-  <img src="https://img.icons8.com/color/344/css3.png" width='25' heidth='25'/>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" width='25' heidth='25'/>
-  <img src="https://img.icons8.com/color/72/nodejs.png" width='25' heidth='25'/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width='25'      heidth='25'/>
- <img src="https://img.icons8.com/color/344/react-native.png" width='25' heidth='25'/> 
- <img src="https://img.icons8.com/color/344/sass-avatar.png" width='25' heidth='25'/> 
- <img src="https://img.icons8.com/color/2x/bootstrap.png" width='25' heidth='25'/>
-  <img src="https://img.icons8.com/ios-glyphs/344/github.png" width='25' heidth='25'/> 
+  <img src="https://img.icons8.com/color/344/html-5--v1.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/color/344/css3.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/color/344/javascript--v1.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/color/72/nodejs.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width='28'      heidth='28'/>
+ <img src="https://img.icons8.com/color/344/react-native.png" width='28' heidth='28'/> 
+ <img src="https://img.icons8.com/color/344/sass-avatar.png" width='28' heidth='28'/> 
+ <img src="https://img.icons8.com/color/2x/bootstrap.png" width='28' heidth='28'/>
+  <img src="https://img.icons8.com/ios-glyphs/344/github.png" width='28' heidth='28'/> 
  </h4>
  
  <h5>Soft Skills: </h5>
