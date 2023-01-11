@@ -1,8 +1,4 @@
 ### Olá, eu sou o João.
-<h3> Estudante de Sistemas para internet pela faculdade Descomplica, Apaxionado por programação e sempre aprender novas technologias e sempre achar a resolução para os problemas propostos dos desafios, animes, series e estumento musical (Violão).  
-</h3>
-
-<h4> Atualemnte Estou iniciando novas experiecias realizando novas imerssões Com a Vai Na Web - Curso forcado na stack frontend e M3 academy, onde o foco é aprender mais technologias no âmbito de ecommeces. Estou sempre a procura de consolidar meus conhechimentos obtidos durante o Gama Academy e StartSe Tech Academy, pois acredito com bastante foco poderei alcançar minha meta de me tornar um especialista e uma referência na área.
 
 <h5>Hards Skills: </h5>
 
