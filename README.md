@@ -1,4 +1,4 @@
-### Olá, eu sou o João.
+### Olá, eu me chamo João Vitor, Desenvolvedor Front-End.
  
 <div>
 <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorLiberato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
